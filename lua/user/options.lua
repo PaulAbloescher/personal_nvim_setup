@@ -1,8 +1,8 @@
--- language en_US
+-- TODO: Set vim language to en_US
+
 vim.opt.clipboard = "unnamedplus"
 vim.opt.number = true
 vim.opt.relativenumber = true
-
 
 -- Tab options
 vim.opt.tabstop = 4
