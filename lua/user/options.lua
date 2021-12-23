@@ -1,4 +1,4 @@
--- TODO: Set vim language to en_US
+vim.cmd('language en_US.utf8')
 
 vim.opt.clipboard = "unnamedplus"
 vim.opt.number = true
