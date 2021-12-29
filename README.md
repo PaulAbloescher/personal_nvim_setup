@@ -12,6 +12,7 @@ choco install ripgrep
 ```
 choco install mingw
 ```
+Note: Reboot may be necessary.
 
 - Clone this repository to "~\AppData\Local\nvim"
 - Add "nvim" to environment variables if not added automatically
