@@ -74,4 +74,4 @@ keymap("x", "<A-k>", ":move '<-2<CR>gv-gv", opts)
 -- keymap("n", "<leader>fh", "<cmd>lua require('telescope.builtin').help_tags()<cr>Telescope", opts)
 
 -- Nvim-Tree
-keymap("n", "<leader>e", ":NvimTreeToggle<cr>", opts)
+-- keymap("n", "<leader>e", ":NvimTreeToggle<cr>", opts)
