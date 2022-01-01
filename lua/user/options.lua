@@ -17,7 +17,7 @@ local options = {
     signcolumn = "yes",
     colorcolumn = "80",
     hidden = true,
-    mouse = "a"
+    mouse = "a",
 }
 
 for k, v in pairs(options) do
