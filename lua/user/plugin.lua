@@ -84,6 +84,9 @@ return packer.startup(function(use)
   -- Better Terminal Support
   use "akinsho/toggleterm.nvim"
 
+  -- Greeter
+  use 'goolord/alpha-nvim'
+
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
   if PACKER_BOOTSTRAP then
